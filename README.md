@@ -1,4 +1,4 @@
-# Project-Luther
+# Logistic Regression and predicting NBA salaries
 Predicting NBA salaries from individual player statistics.
 
 This repo contains jupyter notebook, relevant data files and a presentation slide deck.
